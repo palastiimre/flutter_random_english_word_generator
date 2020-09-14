@@ -1,4 +1,4 @@
-# first_project
+## Flutter APP - Random english word generator
 
 A new Flutter project.
 
